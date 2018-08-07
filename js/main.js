@@ -53,7 +53,6 @@ $(document).ready(function(){
             </div>
             <div class="col-md-9">
               <span class="label label-primary">public repos: ${user.public_repos}&nbsp;&nbsp;&nbsp;&nbsp;</span>
-              <span class="label label-success">public gists: ${user.gists}&nbsp;&nbsp;&nbsp;&nbsp;</span>
               <span class="label label-info">followers: ${user.followers}&nbsp;&nbsp;&nbsp;&nbsp;</span>
               <span class="label label-warning">following: ${user.following}</span>
               <br><br>
