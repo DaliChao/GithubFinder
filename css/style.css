@@ -20,3 +20,7 @@ nav.navbar{
 nav a.navbar-brand{
  color:#fff;
 }
+.btn-primary{
+ background-color: #0366d6!important;
+ border-color:#0366d6;
+}
