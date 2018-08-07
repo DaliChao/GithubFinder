@@ -52,9 +52,9 @@ $(document).ready(function(){
               <a target="_blank" class="btn btn-primary btn-block" href=${user.html_url}>View Profile</a>
             </div>
             <div class="col-md-9">
-              <span class="label label-primary">public repos: ${user.public_repos}</span>
-              <span class="label label-success">public gists: ${user.gists}</span>
-              <span class="label label-info">followers: ${user.followers}</span>
+              <span class="label label-primary">public repos: ${user.public_repos}&nbdsp;&nbdsp;&nbdsp;&nbdsp;</span>
+              <span class="label label-success">public gists: ${user.gists}&nbdsp;&nbdsp;&nbdsp;&nbdsp;</span>
+              <span class="label label-info">followers: ${user.followers}&nbdsp;&nbdsp;&nbdsp;&nbdsp;</span>
               <span class="label label-warning">following: ${user.following}</span>
               <br><br>
 
