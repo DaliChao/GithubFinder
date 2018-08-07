@@ -4,3 +4,12 @@
 body{
  background-color: #fff;
 }
+#repos{
+    border: 1px solid rgba(0,0,0,.125);
+    padding: 15px;
+    margin-bottom: 30px;
+}
+h3.page-header{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
