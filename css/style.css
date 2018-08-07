@@ -13,3 +13,10 @@ h3.page-header{
     margin-top: 30px;
     margin-bottom: 20px;
 }
+nav.navbar{
+  background:#24292e;
+  margin-bottom:30px;
+}
+nav a.navbar-brand{
+ color:#fff;
+}
